@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="teal">#3BD3C5</color>
     <color name="teal700">#1F8C82</color>
+    <color name="defaultTextColor">#FF000000</color>
 </resources>

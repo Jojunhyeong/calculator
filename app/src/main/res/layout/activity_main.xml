@@ -14,6 +14,7 @@
         android:padding="16dp"
         android:text="equation"
         android:textSize="30sp"
+        android:textColor="@color/defaultTextColor"
         app:layout_constraintBottom_toTopOf="@id/resultTextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -29,6 +30,7 @@
         android:padding="16dp"
         android:gravity="end"
         android:textSize="30sp"
+        android:textColor="@color/defaultTextColor"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toTopOf="@id/keyPadFlow"></TextView>
